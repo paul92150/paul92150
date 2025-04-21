@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a student at CentraleSupélec, passionate about applie
 - ♟️ **VoiceChess** — an experimental interface for blindfold chess using speech recognition and a Stockfish fallback engine.
 
 ## 🛠️ Skills
-- **Languages**: Python (Advanced), C++, JavaScript
+- **Languages**: Python (Advanced), C++
 - **Frameworks**: PyTorch, scikit-learn, Hugging Face Transformers
 - **Tools**: Docker, Git, Jupyter, OpenCV, SQL, VS Code
 - **ML & NLP**: BERT, T5, XGBoost, MFCC, Speech Emotion Recognition, Reservoir Computing
