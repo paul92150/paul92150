@@ -69,7 +69,7 @@ I'm actively seeking opportunities that involve:
 Feel free to reach out if you're working on something meaningful involving AI, cognition, or finance.
 
 - **Email**: paul.lemaire@student-cs.fr  
-- **LinkedIn**: [paul-lemaire-aa0369289](https://www.linkedin.com/in/paul-lemaire-aa0369289)  
+- **LinkedIn**: [paul-lemaire](https://www.linkedin.com/in/paul-lemaire-aa0369289)  
 - **GitHub**: [@Paul92150](https://github.com/Paul92150)
 
 ---
