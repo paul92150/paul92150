@@ -39,8 +39,9 @@ A blindfold chess interface powered by speech recognition. Includes natural lang
 A modular framework for backtesting and simulating trading strategies. Includes classical strategies (momentum, breakout), market cycle detection via FFT, an SVM baseline, and a virtual trading simulator.  
 **Extension**: Reinforcement learning agent (PPO) with BTC/USD series (excluded from Git)
 
-### Neural Resume Parser *(Private Project)*
-A robust CV parsing pipeline combining a fine-tuned CamemBERT for entity recognition with a T5-based normalization module. Designed for real-world PDF heterogeneity and multilingual parsing.
+### [Neural Resume Parser]
+A robust PDF CV parsing pipeline combining a fine-tuned CamemBERT model for named entity recognition with a T5-based text normalization module. Designed for robustness across diverse document formats and multilingual input.
+
 
 ---
 
