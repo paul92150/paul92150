@@ -4,7 +4,7 @@ Welcome to my GitHub. I'm currently a student at **CentraleSupélec** (top-tier 
 
 ---
 
-## 🔍 Focus Areas
+## Focus Areas
 
 - **Applied Machine Learning**: NLP, time series, speech, and structured data
 - **Neuromorphic Computing**: Reservoirs, dynamics, and alternative computing models
@@ -13,7 +13,7 @@ Welcome to my GitHub. I'm currently a student at **CentraleSupélec** (top-tier 
 
 ---
 
-## 🔧 Technical Stack
+## Technical Stack
 
 | Category        | Tools / Frameworks                                             |
 |----------------|----------------------------------------------------------------|
@@ -25,7 +25,7 @@ Welcome to my GitHub. I'm currently a student at **CentraleSupélec** (top-tier 
 
 ---
 
-## 📂 Key Projects
+## Key Projects
 
 ### [Photonic-Inspired Reservoir Computing](https://github.com/Paul92150/photonic-reservoir)
 A neuromorphic learning system simulating a quantized photonic reservoir, applied to MNIST classification and stability analysis. Includes Lyapunov-like divergence metrics, leaky integration models, and Bayesian hyperparameter optimization.  
@@ -45,7 +45,7 @@ A robust PDF CV parsing pipeline combining a fine-tuned CamemBERT model for name
 
 ---
 
-## 📈 Interests
+## Interests
 
 - How intelligent behavior emerges from simple rules (biological or artificial)
 - Market structure, alpha generation, and investment strategy modeling
@@ -54,7 +54,7 @@ A robust PDF CV parsing pipeline combining a fine-tuned CamemBERT model for name
 
 ---
 
-## 🎯 Career Goals
+## Career Goals
 
 I'm actively seeking opportunities that involve:
 
@@ -64,7 +64,7 @@ I'm actively seeking opportunities that involve:
 
 ---
 
-## 📬 Get in Touch
+## Get in Touch
 
 Feel free to reach out if you're working on something meaningful involving AI, cognition, or finance.
 
