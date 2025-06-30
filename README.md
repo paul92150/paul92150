@@ -39,8 +39,8 @@ Solutions to tasks on gas price forecasting, storage contract pricing, credit ri
 A neuromorphic architecture explored for benchmark classification and stability analysis. Included as an experimental side project, illustrating curiosity for alternative computation models.  
 **Result:** 98.86% test accuracy on MNIST
 
-### [Neural Resume Parser](https://github.com/Paul92150/resume-parser)
-A PDF CV parsing pipeline combining fine-tuned CamemBERT for named entity recognition and T5-based text normalization, built for real-world robustness across messy resume formats.
+### Neural Resume Parser (To be added to my GitHub soon)
+A robust PDF CV parsing pipeline combining fine-tuned CamemBERT for named entity recognition and T5-based text normalization. Designed with production-grade preprocessing, modularity, and error-handling strategies inspired by quantitative data pipelines.
 
 ---
 
