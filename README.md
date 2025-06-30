@@ -1,75 +1,75 @@
 # Paul Lemaire
 
-Welcome to my GitHub. I'm currently a student at **CentraleSupélec** (top-tier French engineering school), pursuing my gap year with a focus on applied machine learning and quantitative research. My projects explore the intersection of artificial intelligence, brain-inspired computation, and financial systems.
+Welcome to my GitHub. I’m currently a student at **CentraleSupélec** (top-tier French engineering school), pursuing my gap year with a strong focus on **quantitative research and systematic trading**.  
+
+My projects explore the intersection of financial modeling, applied machine learning, and advanced algorithmic strategies. I’m especially motivated to leverage data science for robust, data-driven investment research and cross-asset portfolio analysis.
 
 ---
 
 ## Focus Areas
 
-- **Quantitative Finance:** strategy simulation, market analysis, portfolio modeling
-- **Systematic Trading:** signal generation, backtesting, risk modeling
-- **Applied Machine Learning:** time series, NLP, structured financial data
-
+- **Quantitative Finance:** alpha generation, risk modeling, cross-asset portfolio strategies  
+- **Systematic Trading:** signal research, backtesting, performance evaluation  
+- **Applied Machine Learning:** time series, NLP, financial structured data
 
 ---
 
 ## Technical Stack
 
 | Category        | Tools / Frameworks                                             |
-|----------------|----------------------------------------------------------------|
-| Languages       | Python (Advanced), C++ (Intermediate)                         |
-| ML Frameworks   | PyTorch, scikit-learn, Hugging Face Transformers              |
-| Tools           | Git, Docker, VS Code, Jupyter, SQL                            |
-| Libraries       | NumPy, OpenCV, Matplotlib, Optuna, Librosa                    |
-| Domains         | NLP, Time Series Forecasting, Speech Processing, Neuromorphic Models, Financial Modeling |
+|-----------------|----------------------------------------------------------------|
+| Languages       | Python (Advanced), C++ (Intermediate)                          |
+| ML Frameworks   | PyTorch, scikit-learn, Hugging Face Transformers               |
+| Tools           | Git, Docker, VS Code, Jupyter, SQL                             |
+| Libraries       | NumPy, Matplotlib, Optuna, pandas, statsmodels                 |
+| Domains         | Quant Research, Time Series Forecasting, Portfolio Modeling    |
 
 ---
 
 ## Key Projects
 
-### [Photonic-Inspired Reservoir Computing](https://github.com/Paul92150/photonic-reservoir)
-A neuromorphic learning system simulating a quantized photonic reservoir, applied to MNIST classification and stability analysis. Includes Lyapunov-like divergence metrics, leaky integration models, and Bayesian hyperparameter optimization.  
-**Result**: 98.86% test accuracy on MNIST (HOG + 8000-neuron reservoir)
-
-### [VoiceChess](https://github.com/Paul92150/vocalchess)
-A blindfold chess interface powered by speech recognition. Includes natural language translation of moves, fallback to engine-based evaluation, and a dynamic graphical interface for post-game review.  
-**Focus**: Real-time NLP, state tracking, and human-in-the-loop decision systems
-
 ### [Trading Lab](https://github.com/Paul92150/trading-lab)
-A modular framework for backtesting and simulating trading strategies. Includes classical strategies (momentum, breakout), market cycle detection via FFT, an SVM baseline, and a virtual trading simulator.  
-**Extension**: Reinforcement learning agent (PPO) with BTC/USD series (excluded from Git)
+A modular research framework for backtesting and simulating systematic trading strategies. Includes classical strategies (momentum, breakout), market cycle detection via FFT, and a virtual trading simulator.  
+**Extension:** Reinforcement learning agent (PPO), and a symbolic alpha module for exploratory alpha signals with fast vectorized evaluation.
 
-### Neural Resume Parser
-A robust PDF CV parsing pipeline combining a fine-tuned CamemBERT model for named entity recognition with a T5-based text normalization module. Designed for robustness across diverse document formats and multilingual input.
+### [J.P. Morgan Quantitative Research Simulation](https://github.com/Paul92150/jpmorgan-quant-sim)
+Solutions to tasks on gas price forecasting, storage contract pricing, credit risk modeling, and FICO score bucketing, using robust, production-style pipelines with custom loss functions and dynamic optimization.
 
+### [Photonic-Inspired Reservoir Computing](https://github.com/Paul92150/photonic-reservoir)
+A neuromorphic architecture explored for benchmark classification and stability analysis. Included as an experimental side project, illustrating curiosity for alternative computation models.  
+**Result:** 98.86% test accuracy on MNIST
+
+### [Neural Resume Parser](https://github.com/Paul92150/resume-parser)
+A PDF CV parsing pipeline combining fine-tuned CamemBERT for named entity recognition and T5-based text normalization, built for real-world robustness across messy resume formats.
 
 ---
 
 ## Interests
 
-- How intelligent behavior emerges from simple rules (biological or artificial)
-- Market structure, alpha generation, and investment strategy modeling
-- High-efficiency AI systems for constrained environments
-- Bridging theory and practical deployment in machine learning
+- Systematic investing and alpha generation
+- Quantitative modeling and risk analytics
+- Cross-asset portfolio research
+- Machine learning applied to financial markets
 
 ---
 
 ## Career Goals
 
-I'm actively seeking opportunities that involve:
+I am actively seeking:
 
-- Applied AI or ML research
-- Quantitative modeling and strategy design
-- Internships or collaborations at the frontier of AI and finance
+- A **Summer 2026 quantitative research internship in the US**,  
+- and a **6-month quantitative internship from January 2026** (US or EU).  
+
+Fully authorized to work in the US and EU as a French-American citizen.
 
 ---
 
 ## Get in Touch
 
-Feel free to reach out if you're working on something meaningful involving AI, cognition, or finance.
+Feel free to reach out to discuss quantitative research, systematic trading, or applied ML in finance:
 
-- **Email**: paul.lemaire@student-cs.fr  
-- **LinkedIn**: [paul-lemaire](https://www.linkedin.com/in/paul-lemaire-aa0369289)  
-- **GitHub**: [@Paul92150](https://github.com/Paul92150)
+- **Email:** paul.lemaire@student-cs.fr  
+- **LinkedIn:** [paul-lemaire](https://www.linkedin.com/in/paul-lemaire-aa0369289)  
+- **GitHub:** [@Paul92150](https://github.com/Paul92150)
 
 ---
