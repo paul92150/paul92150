@@ -6,10 +6,10 @@ Welcome to my GitHub. I'm currently a student at **CentraleSupélec** (top-tier 
 
 ## Focus Areas
 
-- **Applied Machine Learning**: NLP, time series, speech, and structured data
-- **Neuromorphic Computing**: Reservoirs, dynamics, and alternative computing models
-- **Quantitative Finance**: Strategy simulation, market analysis, portfolio modeling
-- **Cognitive Systems**: Learning mechanisms inspired by biological intelligence
+- **Quantitative Finance**: strategy simulation, market analysis, portfolio modeling
+- **Systematic Trading**: signal generation, backtesting, risk modeling
+- **Applied Machine Learning**: time series, NLP, structured financial data
+
 
 ---
 
