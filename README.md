@@ -6,9 +6,9 @@ Welcome to my GitHub. I'm currently a student at **CentraleSupélec** (top-tier 
 
 ## Focus Areas
 
-- **Quantitative Finance**: strategy simulation, market analysis, portfolio modeling
-- **Systematic Trading**: signal generation, backtesting, risk modeling
-- **Applied Machine Learning**: time series, NLP, structured financial data
+- **Quantitative Finance:** strategy simulation, market analysis, portfolio modeling
+- **Systematic Trading:** signal generation, backtesting, risk modeling
+- **Applied Machine Learning:** time series, NLP, structured financial data
 
 
 ---
